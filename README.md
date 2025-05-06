@@ -79,10 +79,6 @@ public/
   index.html     # HTML template
 ```
 
-## Screenshots
-
-![TaskMaster Screenshot](screenshot.png)
-
 ## License
 
 This project is licensed under the MIT License.
